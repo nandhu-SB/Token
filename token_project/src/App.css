@@ -1,0 +1,44 @@
+@keyframes flicker {
+  0% {
+    box-shadow: rgba(255, 0, 0, 0.56) 0px 22px 70px 4px;
+  }
+  50% {
+    box-shadow: rgba(0, 255, 0, 0.56) 0px 22px 70px 4px;
+  }
+  100% {
+    box-shadow: rgba(0, 0, 255, 0.56) 0px 22px 70px 4px;
+  }
+}
+
+.flickering {
+  animation: flicker 2s linear infinite;
+}
+.office{
+  margin-bottom: 2em;
+}
+.assisstant{
+  margin-bottom: 2em;
+}
+.office button{
+  border-radius: 50px;
+  border: 1px solid white;
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+  background-color: rgba(121, 121, 212,.8);
+
+}
+.assisstant button{
+  border-radius: 50px;
+  border: 1px solid rgb(15, 15, 15);
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+  background-color: rgba(136, 212, 121,.8);
+}
+.persons button{
+  border-radius: 50px;
+  border: 1px solid rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+  background-color: rgba(241, 122, 85, 0.69);
+}
+
+
+
+

@@ -1,0 +1,22 @@
+{"persons":[   
+    { "label": "SHAGHNA" },
+    { "label": "ARUNIMA" },
+    { "label": "ATHIRA" },
+    { "label": "NIPIN" },
+    { "label": "PAVITHA" },
+    { "label": "LAKSHMI" },
+    { "label": "BIJU P" },
+    { "label": "VISHNU (CMD)" },
+    { "label": "PRAKASH" },
+    { "label": "SANDEEP" },
+    { "label": "HARIPRIYA" }
+  ],
+"office":[
+    {"label":"MS OFFICE"},
+    {"label":"KKEM OFFICE"},
+    {"label":"PCDIS OFFICE"}
+
+],
+"assisstant":[
+    {"label":"MS ASSISSTANT"}
+]}
